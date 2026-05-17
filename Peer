@@ -1,0 +1,6 @@
+new Peer(undefined, {
+  host: 'твой-сервер.onrender.com',
+  port: 443,
+  secure: true,
+  path: '/peerjs'
+});
